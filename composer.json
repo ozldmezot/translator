@@ -1,0 +1,9 @@
+
+{
+    "name": "ozldmezot/translator",
+    "autoload": {
+        "psr-0" : {
+            "Ozldmezot\\Translator" : "src"
+        }
+    }
+}
